@@ -1,0 +1,53 @@
+<people>
+	
+  <friends>
+	
+  <Sara height="5 3" weight="135" hairColor="brown and grey">
+			<address>123 Anywhere St</address>
+			<carType>Mazda</carType>
+			<phone>18001111111</phone>
+			<favFood>bean salad</favFood>
+		</Sara>
+
+		<Caroline height="5 3" weight="100" hairColor="brown">
+			<address>124 Everywhere St</address>
+			<carType>Subaru</carType>
+			<phone>18001111112</phone>
+			<favFood>Snap peas</favFood>
+		</Caroline>
+
+		<Vicky height="5 9" weight="135" hairColor="sandy brown">
+			<address>125 Nowhere St</address>
+			<carType>Prius</carType>
+			<phone>18001111113</phone>
+			<favFood>cookies</favFood>
+		</Vicky>
+	
+  </friends>
+  
+	<family>
+	
+  <Bob height="6 0" weight="180" hairColor="brown">
+			<address>126 Somewhere St</address>
+			<carType>Mazda</carType>
+			<phone>18001111114</phone>
+			<favFood>hummus</favFood>
+		</Bob>
+
+		<Rose height="4 4" weight="50" hairColor="sandy brown">
+			<address>126 Somewhere St</address>
+			<carType>noCar</carType>
+			<phone>18001111114</phone>
+			<favFood>pizza</favFood>
+		</Rose>
+
+		<Elizabeth height="3 6" weight="44" hairColor="brown">
+			<address>126 Somewhere St</address>
+			<carType>noCar</carType>
+			<phone>18001111114</phone>
+			<favFood>yoghurt</favFood>
+		</Elizabeth>
+
+	</family>
+
+</people>
