@@ -2,7 +2,7 @@
 	
   <friends>
 	
-  <Sara height="5 3" weight="140" hairColor="brown and grey">
+  		<Sara height="5 3" weight="140" hairColor="brown and grey">
 			<address>123 Anywhere St</address>
 			<carType>Mazda</carType>
 			<phone>18001111111</phone>
@@ -27,7 +27,7 @@
   
 	<family>
 	
-  <Bob height="6 0" weight="180" hairColor="brown">
+  		<Bob height="6 0" weight="180" hairColor="brown">
 			<address>126 Somewhere St</address>
 			<carType>Mazda</carType>
 			<phone>18001111114</phone>
